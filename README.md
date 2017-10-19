@@ -1,6 +1,6 @@
 # Data512 Assignment1: Analyzing Monthly Traffic of English Wikipedia
 
-## Project GoaL
+## Project Goal
 
 The goal of this project is to constract, analyze, and publish a dataset of monthly traffic on English Wilipedia from July 1 2008 throught September 30 2017.
 
