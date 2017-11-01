@@ -1,4 +1,4 @@
-# Data512 Assignment1: Analyzing Monthly Traffic of English Wikipedia
+# Analyzing Monthly Traffic of English Wikipedia
 
 ## Project Goal
 
